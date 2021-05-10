@@ -2,3 +2,5 @@
 Software engineer with plenty of ideas and procrastination.
 
 ![](https://github-profile-trophy.vercel.app/?username=foolzoom)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foolzoom&show_icons=true&locale=en" alt="foolzoom" /></p>
