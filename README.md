@@ -1,1 +1,1 @@
-Software engineer with plenty of ideas and procrastination
+Software engineer with plenty of ideas and procrastination.
