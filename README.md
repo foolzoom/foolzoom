@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 # Hi everyone! I'm Denys Kolesnyk.
 Software engineer with plenty of ideas and procrastination.
 
